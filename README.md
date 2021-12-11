@@ -1,6 +1,6 @@
 # Hi, I'm **Benjamin Woosley**.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
+## Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
