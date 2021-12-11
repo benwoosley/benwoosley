@@ -2,7 +2,7 @@
 
 ---
 
-### Weekly Coding Activity 💻
+### 💻 What I've been up to...
 <!--START_SECTION:waka-->
 ```text
 C          14 hrs 53 mins  ████████████████████░░░░░   79.60 % 
@@ -13,6 +13,7 @@ Other      1 min           ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+## GitHub Stats 📊
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdw271&show_icons=true)
 
