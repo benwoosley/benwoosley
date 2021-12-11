@@ -13,6 +13,6 @@ Other      1 min           ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## GitHub Stats 📊
+GitHub Stats 📊
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bdw271&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
