@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
 
 ---
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ### 💻 What I've been up to...
 <!--START_SECTION:waka-->
