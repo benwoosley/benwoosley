@@ -5,11 +5,6 @@ Currently, I am studying computer science at the University of Kentucky. I love 
 
 As a programmer, I enjoy using my attention to detail and creative thinking to come up with solutions.
 
-**Hobbies**
-- Lifting
-- Music
-- Reading
-
 ### 💻 What I've been up to...
 <!--START_SECTION:waka-->
 ```text
