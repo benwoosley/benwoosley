@@ -1,9 +1,7 @@
-# Hi, I'm **Benjamin Woosley**.
+# Hi, I'm **Benjamin Woosley**. ![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
 
-## Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+Currently, I am studying computer science at the University of Kentucky. I love learning about new tech, and building things.  
+### 
 ### 💻 What I've been up to...
 <!--START_SECTION:waka-->
 ```text
