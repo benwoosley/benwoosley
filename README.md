@@ -1,9 +1,7 @@
 # Hi, I'm **Benjamin Woosley**. 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bdw271.bdw271)
 
-Currently, I am studying computer science at the University of Kentucky. I love making things and building relationships.
-
-As a programmer, I enjoy using my attention to detail and creative thinking to come up with solutions.
+Currently, I am studying computer science at the University of Kentucky.
 
 ### 💻 What I've been up to...
 <!--START_SECTION:waka-->
