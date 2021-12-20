@@ -6,8 +6,7 @@ Currently, I am studying computer science at the University of Kentucky.
 ### 💻 What I've been up to...
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 4 mins     ████████████████████▓░░░░   82.61 % 
-C        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Python   3 hrs 9 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
