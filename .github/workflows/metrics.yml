@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_skipped: >-
-            13inworkspace
+            13inworkspace, lc-daily
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
